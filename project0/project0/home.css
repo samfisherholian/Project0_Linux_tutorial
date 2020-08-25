@@ -4,3 +4,26 @@ img{
    margin-right: auto;
    width: 128px;
 }
+
+#firstBighead{
+
+   text-align: center;
+   color: black;
+
+}
+
+body{
+
+   background-color: #d5e3da;
+}
+
+
+.myblock{
+   
+   border: 1px;
+   border-style: solid;
+   border-color: black;
+   background-color: lightblue;
+
+
+}

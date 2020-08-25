@@ -10,7 +10,8 @@ h1{
 }
 
 body{
-    background-color: #141411;
+   
+    background-image: linear-gradient(blue, black);
 
 }
 .BigHeading{
