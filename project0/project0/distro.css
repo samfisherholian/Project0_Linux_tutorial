@@ -1,0 +1,44 @@
+table {
+    font-family: arial,sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 10%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.myblock {
+   
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightblue;
+}
+
+#secondBlock{
+   
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.myfirstBighead{
+    margin-left: 10%;
+    color: blue;
+}
+.mylastBighead{
+    margin-left: 10%;
+}
+
+h1{
+    color: crimson;
+}

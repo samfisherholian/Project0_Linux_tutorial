@@ -28,3 +28,11 @@ p::selection, #style::selection, #flashdrive::selection, .introducion::selection
 
 }
 
+.myblock {
+   
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightblue;
+}
+
