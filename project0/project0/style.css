@@ -14,6 +14,12 @@ body{
     background-image: linear-gradient(blue, black);
 
 }
+
+@media only screen and (max-width: 600px){
+    body{
+        background-image: linear-gradient(blue, green);
+    }
+}
 .BigHeading{
     text-align: center;
     color:yellow;

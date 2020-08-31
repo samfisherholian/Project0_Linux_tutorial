@@ -39,6 +39,13 @@ tr:nth-child(even) {
     margin-left: 10%;
 }
 
+@media only screen and (max-width: 600px){
+    
+    body{
+        background-color: darkgray;
+    }
+}
+
 h1{
     color: crimson;
 }
